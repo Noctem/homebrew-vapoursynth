@@ -1,8 +1,8 @@
 class VsUndither < Formula
   desc "VapourSynth source filter for animated GIFs that removes dithering"
   homepage "https://github.com/Noctem/vapoursynth-undither"
-  url "https://github.com/Noctem/vapoursynth-undither/archive/v0.8.tar.gz"
-  sha256 "12415fdbd86c1a79ea0bfaf7e289e186c04835e98353abae826da088d3a08582"
+  url "https://github.com/Noctem/vapoursynth-undither/archive/v0.9.tar.gz"
+  sha256 "0ece89a5ab31e72fa55eac8872cf466aa213ac2a92b7a9cffab868f4d74346cf"
   head "https://github.com/Noctem/vapoursynth-undither.git"
 
   depends_on "cmake" => :build
